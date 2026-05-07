@@ -85,7 +85,6 @@
 figcaption
   font-weight: normal
 
-
 /* ===================================
           TITULOS TERCER NIVEL
 /* ===================================
@@ -106,7 +105,7 @@ figcaption
     padding: 1.5rem
     margin-left: 0.4rem
   h3
-    margin-left: 1rem
+    margin-left: 0rem
     padding-left: 0rem
     align-items: center
     white-space: normal
@@ -115,9 +114,9 @@ figcaption
   img
     position: relative
     left: -8px
-    bottom: 10px
+    bottom: 7px
     @media screen and (max-width: 1200px)
-      bottom: 7px
+      bottom: 3px
     @media screen and (max-width: 768px)
       bottom: 0px
 .fit___title_tercer_nivel
@@ -127,25 +126,194 @@ figcaption
 /* ===================================
               FONDOS
 /* ===================================
+.fondo___slider
+  background-image: url("../assets/curso/temas/img2.jpg")
+  background-repeat: no-repeat
+  background-size: cover
+  margin-inline: -3.2rem !important
+  padding: 3rem 0rem
+
+.color___box_1
+  background-image: url("../assets/curso/temas/img10.png")
+  background-repeat: no-repeat
+  background-size: 1145px
+  margin-inline: -3.2rem !important
+  @media screen and (min-width: 1400px)
+    background-size: 1325px
 
 /* ===================================
               INTRO
 /* ===================================
+.box___style_1
+  background-color: $color-adicional-2
+  padding-right: 1rem
+  @media screen and (max-width: 1200px)
+    padding: 0rem
+    p
+      padding: 1.5rem
+    img
+      margin: 0rem !important
+      padding: 0rem !important
+
+.box___style_2
+  background-color: $color-adicional-3
+  border-radius: 14px
+  padding: 1.5rem
 
 /* ===================================
-              TEMA 
+              TEMA 1
 /* ===================================
 /* ============ SUBTEMA 1 ============
+.box___style_3
+  background-color: $color-adicional-2
+  padding-right: 2rem
+  @media screen and (max-width: 1200px)
+    padding: 0rem
+    p
+      padding: 1.5rem
+    img
+      margin: 0rem !important
+      padding: 0rem !important
 /* ============ SUBTEMA 2 ============
+.slyder-a__item
+  padding: 4rem 3rem 1rem 4rem !important
+.slyder-a__tipo-b
+  padding: 0rem 2rem 2rem 2rem !important
+.slyder-a__btn--atrs, .slyder-a__btn--sigt
+  background-color: $color-acento-botones
+.slyder-a__bullets__item 
+  background-color: #FFDCA9 !important
+  border: 0px
+.slyder-a__bullets__item--active
+  background-color: #FF9B08 !important
+.slyder-a__bullets__item
+  @media screen and (max-width: 768px)
+    width: 10px !important
+    height: 10px !important
+    margin: 0.2rem
+.ajuste-slider
+  border-radius: 20px
+  background-color: white
+  box-shadow: 0px 3px 10px rgba(0, 0, 0, 0.4)
+
+.estilo___ul
+  li
+    margin-left: -1rem
+.fa-check-circle
+  color: #B08D16
+
+.acordion__accion__btn--a
+  background-color: $color-acento-botones
+.acordeonA
+  position: relative
+  background-color: $color-adicional-2
+  width: 100%
+  p
+    padding-left: 4.3rem
+  @media screen and (max-width: 1200px)
+    width: 100%
+    img
+      padding-left: 3.5rem
+.acordion__activo
+  background-color: $color-adicional-4
+  h3
+    color: $color-sistema-texto !important
+.ajuste-cajaAcordion
+  padding: 0rem 1rem 0rem 0rem
+  ul
+    padding: 0rem 3.3rem
+  li
+    @media screen and (max-width: 1200px)
+      width: auto
+.ajuste-tabla-acordion
+  padding-left: 4.3rem
+  @media screen and (max-width: 1200px)
+    padding-left: 4.3rem
 /* ============ SUBTEMA 3 ============
+.box___style_4
+  background-color: white
+  box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.3)
+  border-radius: 14px
+  h4
+    padding: 1rem 2rem 1rem 2rem
+  p
+    padding: 0rem 2rem 0rem 2rem
+  ul
+    padding: 0rem 2rem 0rem 2rem
+.estilo___ul_2
+  li
+    margin-left: 0.5rem
 /* ============ SUBTEMA 4 ============
+.fit___box_2
+  background-color: $color-adicional-2
+  padding: 2.5rem 1.5rem
+  @media screen and (max-width: 1200px)
+    padding: 1.5rem
 /* ============ SUBTEMA 5 ============
-/* ============ SUBTEMA 6 ============
-/* ============ SUBTEMA 7 ============
-/* ============ SUBTEMA 8 ============
+.box___podcast
+  background-color: $color-adicional-5
+  padding: 1.7rem 1.5rem
+  border-radius: 20px
+  h4
+    color: white
+  @media screen and (max-width: 1200px)
+    padding: 1.5rem
+  @media screen and (min-width: 1400px)
+    padding: 3rem 1.5rem
+.tarjeta-audio__texto
+  color: $color-sistema-texto !important
+  margin-bottom: 2rem !important
+  font-style: normal !important
+.tarjeta-audio
+  background-color: white
+  border-radius: 10px
+  border: 3px solid $color-primario !important
+  padding: 1rem
+  @media screen and (max-width: 1200px)
+    padding: 1.5rem
+.tarjeta-audio.color-acento-contenido .tarjeta-audio__input input[type=range]
+  background: rgb(255, 233, 181)
+  background-image: linear-gradient(#FF9B08, #FF9B08)
+.audio__btn
+  background-color: $color-acento-contenido !important
 
+/* ===================================
+              TEMA 2
+/* ===================================
+/* ============ SUBTEMA 2 ============
+.tabs-c__tab--active
+  font-weight: bold
+.tabs-c__content-item
+  background-color: $color-adicional-6
+  padding: 2rem
+.tabs-c
+  border-bottom: none !important
 
+/* ===================================
+              TEMA 3
+/* ===================================
+/* ============ SUBTEMA 2 ============
+.video
+  iframe
+    border-top-left-radius: 14px !important
+    border-top-right-radius: 14px !important
+.fit___figcaption-video
+  border-bottom-right-radius: 14px !important
+  border-bottom-left-radius: 14px !important
 
+/* ===================================
+              TEMA 4
+/* ===================================
+/* ============ SUBTEMA 2 ============
+.titles___box_cuarto_nivel
+  background-color: $color-adicional-2
+  border-radius: 5px
+  display: inline-flex
+  padding: 0.3rem 1rem
 
-
-
+/* ===================================
+              TEMA 5
+/* ===================================
+/* ============ SUBTEMA 4 ============
+.fit___pasosA-left
+  text-align: left

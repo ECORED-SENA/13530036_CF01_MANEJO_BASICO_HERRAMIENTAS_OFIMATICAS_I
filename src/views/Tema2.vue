@@ -120,7 +120,7 @@
             .row.justify-content-center.align-items-center
               .col-xl-6.mb-4
                 h4 Gestión de ventanas
-                p Microsoft Word permite trabajar con varios documentos, facilitando su organización y comparación. dentro sus funciones está:
+                p Microsoft Word permite trabajar con varios documentos, facilitando su organización y comparación. Dentro de sus funciones está:
                 ul.fa-ul.estilo___ul.mb-3
                   li.mb-0
                     span.fa-li

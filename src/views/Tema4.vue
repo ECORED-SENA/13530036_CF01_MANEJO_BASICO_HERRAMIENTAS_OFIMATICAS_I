@@ -41,7 +41,7 @@
                       img(src='@/assets/curso/temas/img75.png', alt='' style="max-width: 500px").m-auto
                 .row.justify-content-center.align-items-center
                   .col-xl-6.mb-4
-                    h4 Grupo citas y bibliografía
+                    h4 Grupo de citas y bibliografía
                     p.mb-0 Permite gestionar las fuentes del documento mediante citas y bibliografía automática, aplicando estilos como APA. Se utiliza en trabajos académicos e informes para garantizar referencias correctas y evitar el plagio.
                   .col-xl-6
                     figure

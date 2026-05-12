@@ -609,12 +609,12 @@ export default {
             {
               id: 'b',
               texto: 'Crear documentos.',
-              esCorrecta: false,
+              esCorrecta: true,
             },
             {
               id: 'c',
               texto: 'Programar <em>software</em>.',
-              esCorrecta: true,
+              esCorrecta: false,
             },
             {
               id: 'd',

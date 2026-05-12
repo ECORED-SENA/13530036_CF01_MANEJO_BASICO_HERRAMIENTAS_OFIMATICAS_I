@@ -30,7 +30,7 @@
                   img(src='@/assets/curso/temas/img26.png', alt="" ).m-auto
               .col-xl-7.order-1.order-lg-2.mb-4.mb-lg-0
                 h4.txt--purpura.mb-4 Grupo de portapapeles
-                p.mb-0 El grupo Portapapeles permite copiar, cortar y pegar contenido para reorganizarlo fácilmente dentro del documento y reutilizar información sin necesidad de reescribirla.
+                p.mb-0 El grupo portapapeles permite copiar, cortar y pegar contenido para reorganizarlo fácilmente dentro del documento y reutilizar información sin necesidad de reescribirla.
           .py-3.py-md-4(titulo="Grupo fuente")
             .row.justify-content-center.align-items-center
               .col-xl-5.order-2.order-lg-1
@@ -38,7 +38,7 @@
                   img(src='@/assets/curso/temas/img27.png', alt="" ).m-auto
               .col-xl-7.order-1.order-lg-2.mb-4.mb-lg-0
                 h4.txt--purpura.mb-4 Grupo fuente
-                p.mb-0 El grupo Fuente permite modificar la apariencia del texto para resaltar información y mejorar la presentación del documento mediante opciones como tipo, tamaño, color y estilos.
+                p.mb-0 El grupo fuente permite modificar la apariencia del texto para resaltar información y mejorar la presentación del documento mediante opciones como tipo, tamaño, color y estilos.
           .py-3.py-md-4(titulo="Grupo párrafo")
             .row.justify-content-center.align-items-center
               .col-xl-5.order-2.order-lg-1
@@ -46,7 +46,7 @@
                   img(src='@/assets/curso/temas/img28.png', alt="" ).m-auto
               .col-xl-7.order-1.order-lg-2.mb-4.mb-lg-0
                 h4.txt--purpura.mb-4 Grupo párrafo
-                p.mb-0 El grupo Párrafo permite organizar el contenido mediante alineación, listas, interlineado y sangría, mejorando la estructura, presentación y comprensión del texto.
+                p.mb-0 El grupo párrafo permite organizar el contenido mediante alineación, listas, interlineado y sangría, mejorando la estructura, presentación y comprensión del texto.
           .py-3.py-md-4(titulo="Grupo estilos")
             .row.justify-content-center.align-items-center
               .col-xl-5.order-2.order-lg-1
@@ -54,7 +54,7 @@
                   img(src='@/assets/curso/temas/img29.png', alt="" ).m-auto
               .col-xl-7.order-1.order-lg-2.mb-4.mb-lg-0
                 h4.txt--purpura.mb-4 Grupo estilos
-                p.mb-0 El grupo Estilos permite aplicar formatos predefinidos para organizar el contenido, mantener coherencia y estructurar documentos de forma clara y profesional.
+                p.mb-0 El grupo estilos permite aplicar formatos predefinidos para organizar el contenido, mantener coherencia y estructurar documentos de forma clara y profesional.
     p.mb-5 Seguidamente, se estudiarán las herramientas adicionales:
     .fondo___slider.mb-0
       .px-5
@@ -69,7 +69,7 @@
                   img(src='@/assets/curso/temas/img31.png', alt='' style="max-width: 500px").m-auto
             .row.justify-content-center.align-items-center
               .col-xl-6.mb-4
-                h4 Dictar (Herramienta de voz)
+                h4 Dictar (herramienta de voz)
                 p.mb-0 Permite convertir la voz en texto para redactar sin escribir, facilitando la accesibilidad y la toma de notas rápidas.
               .col-xl-6
                 figure
@@ -84,7 +84,7 @@
             .row.justify-content-center.align-items-center
               .col-xl-6.mb-4
                 h4 Complementos
-                p.mb-0 Permiten integrar herramientas externas y ampliar las funciones de Word. En conjunto, los grupos de Inicio ayudan a organizar, presentar y estructurar documentos de forma clara y profesional.
+                p.mb-0 Permiten integrar herramientas externas y ampliar las funciones de Word. En conjunto, los grupos de inicio ayudan a organizar, presentar y estructurar documentos de forma clara y profesional.
               .col-xl-6
                 figure
                   img(src='@/assets/curso/temas/img34.png', alt='' style="max-width: 500px").m-auto      
@@ -229,7 +229,7 @@
               img(src="@/assets/curso/temas/img36.svg" style="max-width: 60px").m-auto
           .col
             h3 Grupo de encabezado y pie de página
-        p.mb-5 El grupo encabezado y pie de página permite agregar información como títulos, fechas y numeración, facilitando la organización y presentación uniforme del documento en todas sus páginas. Los aspectos más representativo son:
+        p.mb-5 El grupo encabezado y pie de página permite agregar información como títulos, fechas y numeración, facilitando la organización y presentación uniforme del documento en todas sus páginas. Los aspectos más representativos son:
     TabsC.color-acento-contenido.mb-5(data-aos="zoom-in")
       .py-3.py-md-4(titulo="Encabezados y pie de página")
         .row.justify-content-center.align-items-center
@@ -251,7 +251,7 @@
             figure(data-aos="zoom-in")
               img(src='@/assets/curso/temas/img45.png', alt='La ilustración muestra la inserción y edición de encabezados y pies de página en un procesador de texto, donde se visualizan opciones para agregar numeración, fechas y otros elementos, facilitando la organización, identificación y presentación uniforme del documento en todas sus páginas.').m-auto
           .col-xl-7.order-1.order-lg-2.mb-4.mb-lg-0
-            h4.txt--purpura.mb-4 Numero de página
+            h4.txt--purpura.mb-4 Número de página
             p.mb-0 Permite agregar la numeración al documento.
     .titles___box_tercer_nivel.mb-5(data-aos="fade-right")
       .col-lg-auto

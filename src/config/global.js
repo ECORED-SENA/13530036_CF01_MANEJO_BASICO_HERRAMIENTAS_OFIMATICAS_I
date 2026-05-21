@@ -304,7 +304,7 @@ export default {
     {
       referencia:
         'Cabero, J. (2006). Bases pedagógicas del e-learning. RUSC, 3(1). ',
-      link: 'https://www.uoc.edu/rusc/3/1/dt/esp/cabero.pdf ',
+      link: '',
     },
     {
       referencia:
@@ -357,7 +357,8 @@ export default {
       autores: [
         {
           nombre: 'Claudia Johanna Gómez Pérez',
-          cargo: 'Responsable del ecosistema',
+          cargo:
+            'Profesional 06. Responsable del ecosistema virtual de recuersos educativos digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
@@ -371,9 +372,10 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Joinner Enrique Osorio Martinez',
+          cargo: 'Experto temático',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
           nombre: 'Paula Marcela Vidal Quintero',

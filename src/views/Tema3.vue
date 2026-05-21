@@ -242,7 +242,7 @@
           .col-xl-7.order-1.order-lg-2.mb-4.mb-lg-0
             h4.txt--purpura.mb-4 Encabezados y pie de página
             p.mb-0 Permiten agregar información como numeración, títulos y fechas en la parte superior e inferior del documento, siendo esenciales en documentos formales.
-      .py-3.py-md-4(titulo="Numero de página")
+      .py-3.py-md-4(titulo="Número de página")
         .row.justify-content-center.align-items-center
           .col-xl-5.order-2.order-lg-1
             .titulo-sexto.color-acento-contenido.mb-2(data-aos="fade-right")
@@ -262,9 +262,9 @@
     p El grupo Texto permite insertar y gestionar elementos textuales avanzados dentro del documento, facilitando la organización de la información y la creación de contenidos más dinámicos y estructurados.
     p.mb-5 En el siguiente se presentan las principales herramientas del grupo Texto y su aplicación en la creación de documentos. Se invita al aprendiz a reproducirlo para fortalecer su comprensión y uso adecuado.
     figure(data-aos="zoom-in").mb-5
-      .video.mb-1
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption.fit___figcaption-video(data-aos="zoom-in") #[b Video]. Grupo de texto en Word: funciones y aplicaciones.
+      .video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/9hRxSxKwTb0" title="Grupo de texto en Word: funciones y aplicaciones" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption.fit___figcaption-video #[b Video]. Grupo de texto en Word: funciones y aplicaciones.
     .titles___box_tercer_nivel.mb-5(data-aos="fade-right")
       .col-lg-auto
         figure

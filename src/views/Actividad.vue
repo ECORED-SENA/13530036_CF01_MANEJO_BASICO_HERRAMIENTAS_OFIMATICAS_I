@@ -17,7 +17,7 @@ export default {
   },
   data: () => ({
     cuestionario: {
-      tema: 'Cuestionario sobre el uso del procesador de texto Microsoft Word',
+      tema: 'Uso de herramientas ofimáticas – Microsoft Word',
       titulo: 'Cuestionario',
       introduccion:
         '<b> Objetivo:</b> evaluar la comprensión del aprendiz sobre las herramientas, funciones y aplicaciones del procesador de texto Microsoft Word, mediante la resolución de un cuestionario que permita identificar el nivel de apropiación de los conocimientos adquiridos en el componente formativo.',
@@ -507,7 +507,7 @@ export default {
         },
         {
           id: 17,
-          texto: '¿Dónde se agregan comentarios?.',
+          texto: '¿Dónde se agregan comentarios?',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [

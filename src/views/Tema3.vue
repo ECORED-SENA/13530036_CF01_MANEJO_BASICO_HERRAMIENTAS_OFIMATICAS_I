@@ -238,7 +238,7 @@
               h5 Figura 9.
               span Encabezados y pie de página
             figure(data-aos="zoom-in")
-              img(src='@/assets/curso/temas/img44.png', alt='').m-auto
+              img(src='@/assets/curso/temas/img44.png', alt='La imagen muestra la interfaz de Microsoft Word con la herramienta de Encabezado y pie de página activa. En la cinta superior se observan opciones para insertar encabezado, pie de página, número de página, fecha y hora, información del documento, imágenes y navegación entre secciones. En el área del documento se visualiza la zona del encabezado y el pie de página delimitadas, mientras el contenido principal aparece atenuado. La figura permite identificar las herramientas disponibles para personalizar encabezados, pies de página y numeración dentro de un documento de Word.').m-auto
           .col-xl-7.order-1.order-lg-2.mb-4.mb-lg-0
             h4.txt--purpura.mb-4 Encabezados y pie de página
             p.mb-0 Permiten agregar información como numeración, títulos y fechas en la parte superior e inferior del documento, siendo esenciales en documentos formales.

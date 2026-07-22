@@ -7,7 +7,7 @@
         span 1
       h1 Conceptos básicos de ofimática
     p La ofimática reúne herramientas digitales que permiten gestionar, procesar y presentar información, facilitando la automatización de tareas y mejorando la productividad, la comunicación y la calidad del trabajo.
-    p.mb-5 En esta unidad de aprendizaje se abordarán la definición de la ofimática, su importancia, sus herramientas principales, su aplicación en contextos reales y los entornos digitales de trabajo.
+    p.mb-5 En esta unidad de aprendizaje se abordará la definición de la ofimática, su importancia, sus herramientas principales, su aplicación en contextos reales y los entornos digitales de trabajo.
     <!------------------------------------------ SUBTEMA 1 ------------------------------------------>
     #t_1_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 1.1 Definición de ofimática 
